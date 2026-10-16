@@ -1,0 +1,15 @@
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\bin\Debug\net10.0\server-report-generator.exe
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\bin\Debug\net10.0\server-report-generator.deps.json
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\bin\Debug\net10.0\server-report-generator.runtimeconfig.json
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\bin\Debug\net10.0\server-report-generator.dll
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\bin\Debug\net10.0\server-report-generator.pdb
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\server-report-generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\server-report-generator.AssemblyInfoInputs.cache
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\server-report-generator.AssemblyInfo.cs
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\server-report-generator.csproj.CoreCompileInputs.cache
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\server-report-generator.sourcelink.json
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\server-report-generator.dll
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\refint\server-report-generator.dll
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\server-report-generator.pdb
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\server-report-generator.genruntimeconfig.cache
+D:\Rider\CsLabs\sem-1-lab-03-report-generator\server-report-generator\obj\Debug\net10.0\ref\server-report-generator.dll
